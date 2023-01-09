@@ -59,6 +59,3 @@ $ ./bin/http-server --env-path ./config/env/.env
 ## Request Collection
 * [InsomniaV4](./assets/api-collection.insomnia-v4.json)
 
-## License
-
-This project is licensed under the [MIT License](https://github.com/pvarentsov/go-backend-template/blob/main/LICENSE).
