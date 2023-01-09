@@ -1,8 +1,6 @@
 <h1 align="center">
-    <img height="80" width="160" src="./assets/gopher-icon.gif" alt="Go"><br>Backend Template
+    <img height="80" width="160" src="./assets/gopher-icon.gif" alt="Go"><br>Backend made by Golang
 </h1>
-
-> Clean architecture based backend template in Go.
 
 ## Makefile
 
@@ -55,7 +53,3 @@ $ ./bin/http-server
 # Expose env vars from the file and start server
 $ ./bin/http-server --env-path ./config/env/.env
 ```
-
-## Request Collection
-* [InsomniaV4](./assets/api-collection.insomnia-v4.json)
-
